@@ -132,5 +132,7 @@ public class StudentDao  extends AbtractDemoMVCDao<Student>{
 			}
 		});
 	}
+	public void Index(){
+	};
 
 }
